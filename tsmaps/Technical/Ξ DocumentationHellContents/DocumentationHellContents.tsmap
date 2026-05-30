@@ -15,175 +15,169 @@
         }
     ],
     "___rΩΩt___": {
-        "key": "sIi16r00h6",
+        "key": "sYNvVu009z",
         "nodes": [
             {
-                "key": "sYNvVu009z",
+                "key": "18yfiNb00KM",
                 "order": 1,
                 "nodes": [
                     {
-                        "key": "18yfiNb00KM",
+                        "key": "xVSWst01TO",
                         "order": 1,
                         "nodes": [
                             {
-                                "key": "xVSWst01TO",
+                                "key": "u0zrG5006o",
                                 "order": 1,
                                 "nodes": [
                                     {
-                                        "key": "u0zrG5006o",
+                                        "key": "ul49g902Ww",
                                         "order": 1,
                                         "nodes": [
                                             {
-                                                "key": "ul49g902Ww",
+                                                "key": "u4jl9y01Ic",
                                                 "order": 1,
                                                 "nodes": [
                                                     {
-                                                        "key": "u4jl9y01Ic",
+                                                        "key": "u4eeh600MG",
                                                         "order": 1,
+                                                        "option": "See the Networks in Action",
+                                                        "iKey": "u5gguY01On",
                                                         "nodes": [
                                                             {
-                                                                "key": "u4eeh600MG",
+                                                                "key": "1D3tSg000WS",
                                                                 "order": 1,
-                                                                "option": "See the Networks in Action",
-                                                                "iKey": "u5gguY01On",
+                                                                "option": "Next",
+                                                                "iKey": "yd9vwR005i",
+                                                                "iExitKey": "1D3tHTQ00KW",
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "1D3tSg000WS",
+                                                                        "key": "1D3tpgo01eq",
                                                                         "order": 1,
                                                                         "option": "Next",
-                                                                        "iKey": "yd9vwR005i",
-                                                                        "iExitKey": "1D3tHTQ00KW",
-                                                                        "nodes": [
-                                                                            {
-                                                                                "key": "1D3tpgo01eq",
-                                                                                "order": 1,
-                                                                                "option": "Next",
-                                                                                "iExitKey": "1D3tf3p00Mu",
-                                                                                "exitKey": "1D3wjIz02GN"
-                                                                            }
-                                                                        ]
+                                                                        "iExitKey": "1D3tf3p00Mu",
+                                                                        "exitKey": "1D3wjIz02GN"
                                                                     }
                                                                 ]
-                                                            },
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "key": "uqem6A02Wl",
+                                                        "order": 2,
+                                                        "option": "See the Networks in Action - with tech notes",
+                                                        "nodes": [
                                                             {
-                                                                "key": "uqem6A02Wl",
-                                                                "order": 2,
-                                                                "option": "See the Networks in Action - with tech notes",
+                                                                "key": "uqeq2100Ph",
+                                                                "order": 1,
                                                                 "nodes": [
                                                                     {
-                                                                        "key": "uqeq2100Ph",
+                                                                        "key": "u4z15g02aS",
                                                                         "order": 1,
                                                                         "nodes": [
                                                                             {
-                                                                                "key": "u4z15g02aS",
+                                                                                "key": "u50veA026m",
                                                                                 "order": 1,
                                                                                 "nodes": [
                                                                                     {
-                                                                                        "key": "u50veA026m",
+                                                                                        "key": "u519GF00X2",
                                                                                         "order": 1,
                                                                                         "nodes": [
                                                                                             {
-                                                                                                "key": "u519GF00X2",
+                                                                                                "key": "u51rKe01DX",
                                                                                                 "order": 1,
+                                                                                                "iKey": "u5gguY01On",
                                                                                                 "nodes": [
                                                                                                     {
-                                                                                                        "key": "u51rKe01DX",
+                                                                                                        "key": "1D3u3sh00ZE",
                                                                                                         "order": 1,
-                                                                                                        "iKey": "u5gguY01On",
+                                                                                                        "option": "Next",
+                                                                                                        "iKey": "yd9vwR005i",
+                                                                                                        "iExitKey": "1D3tHTQ00KW",
                                                                                                         "nodes": [
                                                                                                             {
-                                                                                                                "key": "1D3u3sh00ZE",
+                                                                                                                "key": "1D3zeJ600Ta",
                                                                                                                 "order": 1,
                                                                                                                 "option": "Next",
-                                                                                                                "iKey": "yd9vwR005i",
-                                                                                                                "iExitKey": "1D3tHTQ00KW",
-                                                                                                                "nodes": [
-                                                                                                                    {
-                                                                                                                        "key": "1D3zeJ600Ta",
-                                                                                                                        "order": 1,
-                                                                                                                        "option": "Next",
-                                                                                                                        "iExitKey": "1D3tf3p00Mu",
-                                                                                                                        "exitKey": "1D3wjIz02GN"
-                                                                                                                    }
-                                                                                                                ]
-                                                                                                            }
-                                                                                                        ]
-                                                                                                    },
-                                                                                                    {
-                                                                                                        "key": "u4z5G702Xs",
-                                                                                                        "order": 2,
-                                                                                                        "option": "Show this step...",
-                                                                                                        "isAncillary": true,
-                                                                                                        "nodes": [
-                                                                                                            {
-                                                                                                                "key": "u4zC7x006Y",
-                                                                                                                "order": 1,
-                                                                                                                "option": "The power of variables",
-                                                                                                                "isAncillary": true,
-                                                                                                                "nodes": [
-                                                                                                                    {
-                                                                                                                        "key": "u4zYPX00A6",
-                                                                                                                        "order": 1,
-                                                                                                                        "isLeaf": true
-                                                                                                                    },
-                                                                                                                    {
-                                                                                                                        "key": "u4zf7f0076",
-                                                                                                                        "order": 2,
-                                                                                                                        "option": "Using variables",
-                                                                                                                        "isLeaf": true,
-                                                                                                                        "isAncillary": true
-                                                                                                                    }
-                                                                                                                ]
+                                                                                                                "iExitKey": "1D3tf3p00Mu",
+                                                                                                                "exitKey": "1D3wjIz02GN"
                                                                                                             }
                                                                                                         ]
                                                                                                     }
                                                                                                 ]
                                                                                             },
                                                                                             {
-                                                                                                "key": "u5ZOcJ01h6",
+                                                                                                "key": "u4z5G702Xs",
                                                                                                 "order": 2,
-                                                                                                "option": "What are hallucinations?",
-                                                                                                "isLeaf": true,
+                                                                                                "option": "Show this step...",
                                                                                                 "isAncillary": true,
-                                                                                                "iKey": "u5Yi1402Vi"
+                                                                                                "nodes": [
+                                                                                                    {
+                                                                                                        "key": "u4zC7x006Y",
+                                                                                                        "order": 1,
+                                                                                                        "option": "The power of variables",
+                                                                                                        "isAncillary": true,
+                                                                                                        "nodes": [
+                                                                                                            {
+                                                                                                                "key": "u4zYPX00A6",
+                                                                                                                "order": 1,
+                                                                                                                "isLeaf": true
+                                                                                                            },
+                                                                                                            {
+                                                                                                                "key": "u4zf7f0076",
+                                                                                                                "order": 2,
+                                                                                                                "option": "Using variables",
+                                                                                                                "isLeaf": true,
+                                                                                                                "isAncillary": true
+                                                                                                            }
+                                                                                                        ]
+                                                                                                    }
+                                                                                                ]
                                                                                             }
                                                                                         ]
                                                                                     },
                                                                                     {
-                                                                                        "key": "1GkSuqL01gq",
+                                                                                        "key": "u5ZOcJ01h6",
                                                                                         "order": 2,
-                                                                                        "option": "How grammar adapts across languages",
+                                                                                        "option": "What are hallucinations?",
+                                                                                        "isLeaf": true,
                                                                                         "isAncillary": true,
+                                                                                        "iKey": "u5Yi1402Vi"
+                                                                                    }
+                                                                                ]
+                                                                            },
+                                                                            {
+                                                                                "key": "1GkSuqL01gq",
+                                                                                "order": 2,
+                                                                                "option": "How grammar adapts across languages",
+                                                                                "isAncillary": true,
+                                                                                "nodes": [
+                                                                                    {
+                                                                                        "key": "1Go2VlA02AS",
+                                                                                        "order": 1,
                                                                                         "nodes": [
                                                                                             {
-                                                                                                "key": "1Go2VlA02AS",
+                                                                                                "key": "1Go2dPf01dv",
                                                                                                 "order": 1,
                                                                                                 "nodes": [
                                                                                                     {
-                                                                                                        "key": "1Go2dPf01dv",
+                                                                                                        "key": "1Go2jPa00mn",
                                                                                                         "order": 1,
                                                                                                         "nodes": [
                                                                                                             {
-                                                                                                                "key": "1Go2jPa00mn",
+                                                                                                                "key": "1Go2nm201Bg",
                                                                                                                 "order": 1,
                                                                                                                 "nodes": [
                                                                                                                     {
-                                                                                                                        "key": "1Go2nm201Bg",
+                                                                                                                        "key": "1Go2rHw00RQ",
                                                                                                                         "order": 1,
                                                                                                                         "nodes": [
                                                                                                                             {
-                                                                                                                                "key": "1Go2rHw00RQ",
+                                                                                                                                "key": "1Go2w050079",
                                                                                                                                 "order": 1,
-                                                                                                                                "nodes": [
-                                                                                                                                    {
-                                                                                                                                        "key": "1Go2w050079",
-                                                                                                                                        "order": 1,
-                                                                                                                                        "option": "Predictive Pre‑fetching White Paper",
-                                                                                                                                        "isLeaf": true,
-                                                                                                                                        "isAncillary": true,
-                                                                                                                                        "iKey": "1Go3bTl00K6"
-                                                                                                                                    }
-                                                                                                                                ]
+                                                                                                                                "option": "Predictive Pre‑fetching White Paper",
+                                                                                                                                "isLeaf": true,
+                                                                                                                                "isAncillary": true,
+                                                                                                                                "iKey": "1Go3bTl00K6"
                                                                                                                             }
                                                                                                                         ]
                                                                                                                     }
@@ -196,15 +190,15 @@
                                                                                         ]
                                                                                     }
                                                                                 ]
-                                                                            },
-                                                                            {
-                                                                                "key": "v6E9BE01nK",
-                                                                                "order": 2,
-                                                                                "option": "What are decision trees?",
-                                                                                "isLeaf": true,
-                                                                                "isAncillary": true
                                                                             }
                                                                         ]
+                                                                    },
+                                                                    {
+                                                                        "key": "v6E9BE01nK",
+                                                                        "order": 2,
+                                                                        "option": "What are decision trees?",
+                                                                        "isLeaf": true,
+                                                                        "isAncillary": true
                                                                     }
                                                                 ]
                                                             }
@@ -223,10 +217,6 @@
         ]
     },
     "___αssεts___": [
-        {
-            "key": "δ-sIi16r00h6",
-            "relativePath": "./δ steps/δ-sIi16r00h6.tsstp"
-        },
         {
             "key": "δ-sYNvVu009z",
             "relativePath": "./δ steps/δ-sYNvVu009z.tsstp"
@@ -341,8 +331,8 @@
         }
     ],
     "___εdit___": {
-        "id": "1Go5WGB00BZ",
-        "editorID": "car_be4c9433f2984a8e953643ee2071a1e1",
-        "ticks": 1778944093348
+        "id": "1Hlnxe500p2",
+        "editorID": "car_59eb452a86204d94b6e5eb4ac256faee",
+        "ticks": 1779826488873
     }
 }
