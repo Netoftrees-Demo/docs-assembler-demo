@@ -22,5 +22,6 @@ The demo below is embedded directly into this guide. It's one small example of t
 
 > ***This single guide has more possible paths than Wikipedia has pages.***
 
-Choose your location, power, climate, and crops. Behind each choice, the tree branches - but to you, it will feel like plain prose. Yet you build and maintain it with nothing more than a text editor. No database. No SaaS dashboard. Just Markdown and JSON in your repo.
+Choose your location, power, climate, and crops. Behind each choice, the tree branches — but to the reader, it will feel like plain prose.
+Yet you build and maintain it with nothing more than a text editor. No database. No SaaS dashboard. Just Markdown and JSON in your repo.
 
