@@ -17,8 +17,23 @@
         "key": "u5gkFx00HL",
         "nodes": [
             {
-                "key": "u5gpCU01mT",
+                "key": "1KnRtRN000O",
                 "order": 1,
+                "option": "How is this possible?",
+                "isAncillary": true,
+                "nodes": [
+                    {
+                        "key": "1KnS0su02WI",
+                        "order": 1,
+                        "option": "Here's the maths",
+                        "isLeaf": true,
+                        "isAncillary": true
+                    }
+                ]
+            },
+            {
+                "key": "u5gpCU01mT",
+                "order": 2,
                 "option": "Start the demo",
                 "iKey": "s7SMNM05c",
                 "nodes": [
@@ -41,11 +56,19 @@
         {
             "key": "δ-u5gpCU01mT",
             "relativePath": "./δ steps/δ-u5gpCU01mT.tsstp"
+        },
+        {
+            "key": "δ-1KnRtRN000O",
+            "relativePath": "./δ steps/δ-1KnRtRN000O.tsstp"
+        },
+        {
+            "key": "δ-1KnS0su02WI",
+            "relativePath": "./δ steps/δ-1KnS0su02WI.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1D3tIp200tf",
-        "editorID": "car_1a4fa5439ee44274b081fed2488c68a7",
-        "ticks": 1775513071804
+        "id": "1KnSRP000ZY",
+        "editorID": "car_5f99a598ee064a74a008f71ec6ceb12d",
+        "ticks": 1782599311210
     }
 }
