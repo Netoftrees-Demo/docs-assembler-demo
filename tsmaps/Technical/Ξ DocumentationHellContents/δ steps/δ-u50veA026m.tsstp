@@ -1,5 +1,5 @@
-¬import el from "../../../shared/externalLinks"
-¬import euh from "../../../Ξ DocumentationHell/_shared/ExploreUnderTheHood"
+¬import el from "../../../../../../netoftrees/docs-assembler-demo/tsmaps/shared/externalLinks"
+¬import euh from "../../../../../../netoftrees/docs-assembler-demo/tsmaps/Ξ DocumentationHell/_shared/ExploreUnderTheHood"
 
 
 ### {{::euh.howItWorksTitle}}

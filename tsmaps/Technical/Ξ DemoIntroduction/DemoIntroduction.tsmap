@@ -1,11 +1,11 @@
 {
     "key": "u5gguY01On  ",
-    "token": "Demointroduction1ksmlq411s",
-    "name": "DemoIntroduction_1KsmLq411S",
+    "token": "Demointroduction",
+    "name": "DemoIntroduction",
     "created": "2026-06-28T20:19:11.936Z",
     "list": true,
-    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-demo/tsmaps/Technical/Ξ DemoIntroduction/DemoIntroduction_1KsmLq411S.tsmap",
-    "iText": "Link to 'DemoIntroduction_1KsmLq411S'",
+    "cachedPath": "d:/GitHub/Netoftrees-Demo/docs-assembler-demo/tsmaps/Technical/Ξ DemoIntroduction/DemoIntroduction.tsmap",
+    "iText": "Link to 'DemoIntroduction'",
     "iExits": [
         {
             "key": "1D3tHTQ00KW",
@@ -26,6 +26,21 @@
                         "option": "What's wrong with copy-paste?",
                         "isLeaf": true,
                         "isAncillary": true
+                    },
+                    {
+                        "key": "1KsqyTe00bY",
+                        "order": 2,
+                        "option": "Start the demo",
+                        "iKey": "s7SMNM05c",
+                        "nodes": [
+                            {
+                                "key": "1Ksr5ar00iA",
+                                "order": 1,
+                                "option": "Next",
+                                "iExitKey": "1D3t8oV00Hi",
+                                "exitKey": "1D3tHTQ00KW"
+                            }
+                        ]
                     }
                 ]
             },
@@ -66,11 +81,15 @@
         {
             "key": "δ-1KskxAl01KN",
             "relativePath": "./δ steps/δ-1KskxAl01KN.tsstp"
+        },
+        {
+            "key": "δ-1KsqyTe00bY",
+            "relativePath": "./δ steps/δ-1KsqyTe00bY.tsstp"
         }
     ],
     "___εdit___": {
-        "id": "1Ksl79V01v8",
-        "editorID": "car_065b852a62ca4bf0a98bf348b9181320",
-        "ticks": 1782677643281
+        "id": "1Ksr7wy01yZ",
+        "editorID": "car_9a317a448a4c48e1a6bdc7fb13c66a34",
+        "ticks": 1782679076316
     }
 }

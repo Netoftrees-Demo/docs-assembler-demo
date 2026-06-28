@@ -1,4 +1,0 @@
-### No reader will ever hit a 404 you didn't see coming
-
-Docs Assembler validates every reference before your users see it. Missing image? Typo in a map name? The build stops and points you to the exact line — while you are still at your desk.
-

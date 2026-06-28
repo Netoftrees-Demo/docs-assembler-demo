@@ -1,6 +1,6 @@
-¬import il from "../../../shared/imageLinks"
-¬import el from "../../../shared/externalLinks"
-¬import euh from "../../../Ξ DocumentationHell/_shared/ExploreUnderTheHood"
+¬import il from "../../../../../../netoftrees/docs-assembler-demo/tsmaps/shared/imageLinks"
+¬import el from "../../../../../../netoftrees/docs-assembler-demo/tsmaps/shared/externalLinks"
+¬import euh from "../../../../../../netoftrees/docs-assembler-demo/tsmaps/Ξ DocumentationHell/_shared/ExploreUnderTheHood"
 
 
 #### The Power of Variables:
