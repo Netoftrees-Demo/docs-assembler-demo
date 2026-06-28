@@ -1,9 +1,5 @@
 
-*Choose your location, power, climate, and crops. Behind each choice, the tree branches - but to you, it will feel like plain prose.*
+##### Referenced, not copied
 
-Yet you build and maintain it with nothing more than a text editor. No database. No SaaS dashboard. Just Markdown and JSON in your repo.
-
-### Referenced, not copied.
-
-You just changed one thing, published, and saw it update everywhere. That's the whole point. Every piece of text lives in one place. Every guide borrows it by reference. Change the source, and every path that uses it updates instantly — no matter how many branches lead there, or how deep they go.
+Every piece of text lives in one place. Guides borrow it by reference. Change the source, and every path that uses it updates instantly — no matter how many branches lead there.
 

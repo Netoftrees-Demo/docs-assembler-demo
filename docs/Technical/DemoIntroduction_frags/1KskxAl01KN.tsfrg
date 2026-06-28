@@ -6,9 +6,7 @@ permalink: /Technical/DemoIntroduction_frags/1KskxAl01KN.html
 
 <!-- tsFragmentRenderComment {"id":"1KskxAl01KN","topLevelMapKey":"u5gguY01On","mapKeyChain":"u5gguY01On","guideID":"u5gguY01On","parentFragmentID":"u5gkFx00HL","chartKey":"u5gguY01On","isLeaf":true,"options":[]} -->
 
-##### What's wrong with copy-paste?
+##### What it means
 
-In a traditional wiki, you copy-paste the same warning into five articles. Six months later, the product changes. You search, update two copies, and miss the other three. They stay wrong until a customer emails you.
-
-With Docs Assembler, you maintain one warning. Five guides reference it. One edit. **Every instance fixed.**
+In a traditional wiki, you copy-paste the same warning into five articles. Six months later, the product changes. You search through the wiki, update two of them, and miss the other three. They stay wrong until a customer emails you. Here, you maintain one warning. Five guides reference it. One edit. Every branch updated.
 

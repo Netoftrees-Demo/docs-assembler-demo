@@ -4,14 +4,10 @@ permalink: /Technical/DemoIntroduction_frags/u5gkFx00HL.html
 ---
 
 
-<!-- tsFragmentRenderComment {"id":"u5gkFx00HL","topLevelMapKey":"u5gguY01On","mapKeyChain":"u5gguY01On","guideID":"u5gguY01On","parentFragmentID":"1KsjovV00dd","chartKey":"u5gguY01On","isLeaf":false,"options":[{"id":"1KskxAl01KN","option":"What's wrong with copy-paste?","order":1,"isAncillary":true},{"id":"1KsqyTe00bY","option":"Start the demo","order":2}]} -->
+<!-- tsFragmentRenderComment {"id":"u5gkFx00HL","topLevelMapKey":"u5gguY01On","mapKeyChain":"u5gguY01On","guideID":"u5gguY01On","parentFragmentID":"1KsjovV00dd","chartKey":"u5gguY01On","isLeaf":false,"options":[{"id":"1KskxAl01KN","option":"What does that mean?","order":1,"isAncillary":true},{"id":"1KsqyTe00bY","option":"Start the demo","order":2}]} -->
 
 
-*Choose your location, power, climate, and crops. Behind each choice, the tree branches - but to you, it will feel like plain prose.*
+##### Referenced, not copied
 
-Yet you build and maintain it with nothing more than a text editor. No database. No SaaS dashboard. Just Markdown and JSON in your repo.
-
-### Referenced, not copied.
-
-You just changed one thing, published, and saw it update everywhere. That's the whole point. Every piece of text lives in one place. Every guide borrows it by reference. Change the source, and every path that uses it updates instantly — no matter how many branches lead there, or how deep they go.
+Every piece of text lives in one place. Guides borrow it by reference. Change the source, and every path that uses it updates instantly — no matter how many branches lead there.
 
