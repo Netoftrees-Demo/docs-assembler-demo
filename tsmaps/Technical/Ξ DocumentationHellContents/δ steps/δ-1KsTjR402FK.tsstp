@@ -1,0 +1,4 @@
+#### What nomrally happens
+
+In a traditional wiki or static site, moving a file breaks every link pointing to it. You only find out when a reader emails you about a 404. Here, links are smart. They know where they live in the final guide and recalculate their own paths at publish time. Move, rename, or reorganise — the link follows the content, not the folder structure.
+
